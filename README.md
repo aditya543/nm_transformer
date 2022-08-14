@@ -1,6 +1,6 @@
 # Introduction
 This is an advanced sequence-to-sequence model for machine translation based on the latest and the greatest Transformer architecture.
-This is powered by a Byte Level BPE Tokenize to achieve even amazing results.
+This is powered by a Byte Level BPE Tokenization mechanism to achieve even amazing results.
 This Repo is inspired by the amazing nmt-chatbot project by Daniel-Kukiela and Sentdex.
 It can be used to translate between languages and achieve state-of-the-art results and also it may be used as a chatbot. This Repo comes with a 
 pre-trained model which is trained off Reddit Chat Data. You can immediately start interacting with it by running inference.py
